@@ -5,9 +5,9 @@
 
 Mechatronics engineer with a master's in AI, focused on computer vision, multimodal LLMs and industrial automation. I want to bring machine learning into manufacturing: visual inspection, predictive maintenance and robotics.
 
-💼 **Open to:** full-time roles in AI/ML, computer vision or industrial automation · Guadalajara / Remote
-
 📸 **Fun fact:** I'm also a photographer, which is probably why I got into computer vision.
+
+💼 **Open to:** full-time roles in AI/ML, computer vision or industrial automation · Guadalajara / Remote
 
 ### 🔧 What I work with
 
